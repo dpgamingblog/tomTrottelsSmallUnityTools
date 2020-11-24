@@ -20,4 +20,5 @@ Attention : Make a backup of your terrain, just in case, and do not use it in Ed
 
 This is free, but if you want to support me, well, have fun while using it ;)
 
+![alt text](https://raw.githubusercontent.com/dpgamingblog/tomTrottelsSmallUnityTools/main/tomtrottel_example_treeremover.jpg "Example TreeOnTerrainRemover")
 
